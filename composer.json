@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-medialibrary-pro",
+    "name": "la-boite-a-code/spatie-media-library-pro",
     "description": "Handle media in a Laravel app",
     "keywords": [
         "spatie",
         "laravel-medialibrary-pro"
     ],
-    "homepage": "https://github.com/spatie/laravel-medialibrary-pro",
+    "homepage": "https://github.com/La-boite-a-code/spatie-media-library-pro",
     "authors": [
         {
             "name": "Freek Van der Herten",
